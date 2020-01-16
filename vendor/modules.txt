@@ -1,0 +1,3 @@
+# syreclabs.com/go/faker v1.2.0
+syreclabs.com/go/faker
+syreclabs.com/go/faker/locales
